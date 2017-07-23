@@ -41,6 +41,3 @@ exclude:
   - LICENSE.md
   - README.md
   - CNAME
-
-# Custom vars
-version:             1.0.1
